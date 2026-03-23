@@ -82,4 +82,4 @@
 
 ###
 ### badge
-[![An image of @manas225's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/manas225#)](https://www.holopin.io/@manas225#)
+[![An image of @manas225's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manas225)](https://holopin.io/@manas225)
